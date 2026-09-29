@@ -1,5 +1,9 @@
 # Basic Banking API
 
+A secure REST API for user registration and login, account access, deposits, withdrawals,
+and transfers. It uses FastAPI, SQLite, SQLAlchemy, Pydantic validation, JWT authentication,
+and password hashing. Swagger documentation is available at `/docs`.
+
 ## 1. Project overview
 A REST API for a basic banking application. Users can register, log in, view their
 account, deposit, withdraw, transfer money to another account, see their transaction
